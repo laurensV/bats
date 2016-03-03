@@ -1,0 +1,4 @@
+Run on 1 hosts for 360000 seconds from Fri May 16 05:18:01 2014
+: node078/0 
+log4j:WARN No appenders could be found for logger (ibis.ipl.impl.Ibis).
+log4j:WARN Please initialize the log4j system properly.

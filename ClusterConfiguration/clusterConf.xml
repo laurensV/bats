@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+
+<config>
+
+	<cluster>
+        <classname>org.koala.runnersFramework.runners.bot.DAS4DoubleNodeCluster</classname>
+
+        <hostname>fs0.das4.cs.vu.nl</hostname>
+
+        <timeunit>10</timeunit>
+
+        <costunit>3</costunit>
+
+        <maxnodes>6</maxnodes> 
+       
+	<alias>double</alias>	
+ 
+        <speedfactor>1</speedfactor>
+    </cluster> 
+
+   
+
+ 
+
+    <!--
+
+<cluster>
+        <classname>org.koala.runnersFramework.runners.bot.DAS4Cluster</classname>
+
+        <hostname>fs0.das4.cs.vu.nl</hostname>
+
+        <timeunit>10</timeunit>
+
+        <costunit>3</costunit>
+
+        <maxnodes>5</maxnodes> 
+       
+	<alias>fat</alias>	
+ 
+        <speedfactor>1</speedfactor>
+    </cluster>
+
+   
+    <cluster>
+        <classname>org.koala.runnersFramework.runners.bot.OpenNebulaOcaCluster</classname>
+
+        <hostname>cumulus.zib.de</hostname>
+
+        <timeunit>10</timeunit>
+
+        <costunit>3</costunit>
+
+        <maxnodes>3</maxnodes>
+        
+        <image>BaTSManager2.0</image>
+        
+        <alias>das4@cs@vu@nl@opennebula@2</alias>
+        
+        <speedfactor>1</speedfactor>
+    </cluster>
+    
+    <cluster>
+        <classname>org.koala.runnersFramework.runners.bot.EucalyptusCluster</classname>
+
+        <hostname>fs0.das4.cs.vu.nl</hostname>
+
+        <port>8773</port>
+
+        <timeunit>10</timeunit>
+
+        <costunit>3</costunit>
+
+        <maximumnodes>3</maximumnodes>
+
+        <test>
+            <alias>das4@eucalyptus</alias>
+
+            <speedfactor>1</speedfactor>
+        </test>
+
+        <image>emi-XXXXXX</image>
+
+        <keypairname>das4</keypairname>
+
+        <keypairpath>~/.euca/das4.priv</keypairpath>
+
+        <accesskey>JR7nozVppJIF3ilLOsY5R7tG1pwcP3xPc3DuHw</accesskey>
+    
+        <secretkey>T6FXeREqhAYmadAnAVYBnhWMuqsXKrt7WuZw</secretkey>
+    </cluster>
+    -->
+</config>
+

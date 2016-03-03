@@ -1,0 +1,358 @@
+log4j:WARN No appenders could be found for logger (ibis.ipl.impl.Ibis).
+log4j:WARN Please initialize the log4j system properly.
+BoTRunner has found 1993 jobs; will send 7 to 1 initial workers on cluster ec2-micro2
+BoTRunner has found 1993 jobs; will send 7 to 1 initial workers on cluster ec2-micro1
+BoTRunner has found 1993 jobs; will send 7 to 1 initial workers on cluster ec2-micro3
+Timeout is now 144000
+I timed out!
+I timed out!
+I timed out!
+I timed out!
+I timed out!
+I timed out!
+I timed out!
+I timed out!
+I timed out!
+job request from node 1@t1.micro.c2.amazon.com in cluster t1.micro.c2.amazon.com
+1@t1.micro.c2.amazon.com returned result of job 1629 executed for (sec)5
+job request from node 1@t1.micro.c3.amazon.com in cluster t1.micro.c3.amazon.com
+1@t1.micro.c2.amazon.com returned result of job 657 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 1629 executed for (sec)5
+1@t1.micro.c2.amazon.com returned result of job 1842 executed for (sec)4
+job request from node 1@t1.micro.c1.amazon.com in cluster t1.micro.c1.amazon.com
+1@t1.micro.c2.amazon.com returned result of job 303 executed for (sec)1
+1@t1.micro.c3.amazon.com returned result of job 657 executed for (sec)3
+1@t1.micro.c2.amazon.com returned result of job 352 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 1629 executed for (sec)5
+1@t1.micro.c3.amazon.com returned result of job 1842 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 303 executed for (sec)1
+1@t1.micro.c1.amazon.com returned result of job 657 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 352 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 1842 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 303 executed for (sec)1
+1@t1.micro.c2.amazon.com returned result of job 97 executed for (sec)15
+1@t1.micro.c1.amazon.com returned result of job 352 executed for (sec)6
+1@t1.micro.c3.amazon.com returned result of job 97 executed for (sec)16
+1@t1.micro.c1.amazon.com returned result of job 97 executed for (sec)16
+1@t1.micro.c2.amazon.com returned result of job 866 executed for (sec)27
+I timed out!
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 866 executed for (sec)88
+1@t1.micro.c2.amazon.com returned result of job 875 executed for (sec)75
+1@t1.micro.c1.amazon.com returned result of job 866 executed for (sec)86
+1@t1.micro.c1.amazon.com returned result of job 399 executed for (sec)1
+1@t1.micro.c2.amazon.com returned result of job 863 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 1165 executed for (sec)21
+1@t1.micro.c1.amazon.com returned result of job 1502 executed for (sec)21
+1@t1.micro.c1.amazon.com returned result of job 1367 executed for (sec)0
+I timed out!
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 1042 executed for (sec)78
+1@t1.micro.c2.amazon.com returned result of job 330 executed for (sec)99
+1@t1.micro.c1.amazon.com returned result of job 504 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 584 executed for (sec)94
+1@t1.micro.c3.amazon.com returned result of job 719 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 25 executed for (sec)14
+1@t1.micro.c1.amazon.com returned result of job 1762 executed for (sec)1
+I timed out!
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 921 executed for (sec)78
+1@t1.micro.c2.amazon.com returned result of job 1312 executed for (sec)94
+1@t1.micro.c1.amazon.com returned result of job 49 executed for (sec)77
+1@t1.micro.c1.amazon.com returned result of job 605 executed for (sec)5
+1@t1.micro.c3.amazon.com returned result of job 1925 executed for (sec)9
+1@t1.micro.c2.amazon.com returned result of job 1708 executed for (sec)7
+I timed out!
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 958 executed for (sec)90
+1@t1.micro.c2.amazon.com returned result of job 214 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1192 executed for (sec)97
+1@t1.micro.c3.amazon.com returned result of job 1490 executed for (sec)100
+1@t1.micro.c1.amazon.com returned result of job 429 executed for (sec)7
+1@t1.micro.c3.amazon.com returned result of job 341 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 1153 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 1052 executed for (sec)4
+I timed out!
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 824 executed for (sec)77
+1@t1.micro.c2.amazon.com returned result of job 583 executed for (sec)94
+1@t1.micro.c2.amazon.com returned result of job 480 executed for (sec)4
+1@t1.micro.c2.amazon.com returned result of job 726 executed for (sec)1
+1@t1.micro.c3.amazon.com returned result of job 827 executed for (sec)7
+1@t1.micro.c1.amazon.com returned result of job 1326 executed for (sec)100
+1@t1.micro.c1.amazon.com returned result of job 1215 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 310 executed for (sec)4
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 77 executed for (sec)91
+1@t1.micro.c2.amazon.com returned result of job 1520 executed for (sec)0
+1@t1.micro.c1.amazon.com returned result of job 1482 executed for (sec)73
+1@t1.micro.c2.amazon.com returned result of job 1454 executed for (sec)8
+1@t1.micro.c3.amazon.com returned result of job 812 executed for (sec)105
+1@t1.micro.c3.amazon.com returned result of job 901 executed for (sec)1
+1@t1.micro.c3.amazon.com returned result of job 672 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 47 executed for (sec)3
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 1141 executed for (sec)61
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 407 executed for (sec)78
+1@t1.micro.c2.amazon.com returned result of job 652 executed for (sec)92
+1@t1.micro.c2.amazon.com returned result of job 1613 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 580 executed for (sec)10
+1@t1.micro.c1.amazon.com returned result of job 1655 executed for (sec)50
+1@t1.micro.c1.amazon.com returned result of job 1233 executed for (sec)7
+1@t1.micro.c1.amazon.com returned result of job 1453 executed for (sec)2
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 1701 executed for (sec)92
+1@t1.micro.c3.amazon.com returned result of job 499 executed for (sec)89
+1@t1.micro.c2.amazon.com returned result of job 1671 executed for (sec)4
+1@t1.micro.c2.amazon.com returned result of job 149 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 126 executed for (sec)8
+1@t1.micro.c1.amazon.com returned result of job 1481 executed for (sec)84
+1@t1.micro.c3.amazon.com returned result of job 638 executed for (sec)6
+1@t1.micro.c3.amazon.com returned result of job 227 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 1909 executed for (sec)1
+1@t1.micro.c1.amazon.com returned result of job 776 executed for (sec)33
+1@t1.micro.c2.amazon.com returned result of job 136 executed for (sec)70
+1@t1.micro.c3.amazon.com returned result of job 924 executed for (sec)77
+1@t1.micro.c2.amazon.com returned result of job 1120 executed for (sec)27
+1@t1.micro.c3.amazon.com returned result of job 372 executed for (sec)12
+1@t1.micro.c1.amazon.com returned result of job 1983 executed for (sec)67
+1@t1.micro.c1.amazon.com returned result of job 1966 executed for (sec)2
+1@t1.micro.c1.amazon.com returned result of job 328 executed for (sec)2
+1@t1.micro.c2.amazon.com returned result of job 420 executed for (sec)20
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 633 executed for (sec)74
+1@t1.micro.c1.amazon.com returned result of job 1675 executed for (sec)82
+1@t1.micro.c2.amazon.com returned result of job 545 executed for (sec)7
+1@t1.micro.c3.amazon.com returned result of job 1837 executed for (sec)101
+1@t1.micro.c3.amazon.com returned result of job 1611 executed for (sec)4
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 1457 executed for (sec)70
+1@t1.micro.c1.amazon.com returned result of job 1355 executed for (sec)90
+1@t1.micro.c2.amazon.com returned result of job 382 executed for (sec)20
+1@t1.micro.c3.amazon.com returned result of job 1584 executed for (sec)84
+1@t1.micro.c3.amazon.com returned result of job 245 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1954 executed for (sec)17
+1@t1.micro.c1.amazon.com returned result of job 1348 executed for (sec)2
+1@t1.micro.c1.amazon.com returned result of job 1301 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 54 executed for (sec)29
+1@t1.micro.c2.amazon.com returned result of job 144 executed for (sec)58
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 648 executed for (sec)83
+1@t1.micro.c2.amazon.com returned result of job 366 executed for (sec)47
+1@t1.micro.c2.amazon.com returned result of job 90 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 180 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 854 executed for (sec)76
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 375 executed for (sec)35
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 449 executed for (sec)93
+1@t1.micro.c3.amazon.com returned result of job 427 executed for (sec)52
+1@t1.micro.c2.amazon.com returned result of job 1471 executed for (sec)1
+1@t1.micro.c3.amazon.com returned result of job 553 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1374 executed for (sec)105
+1@t1.micro.c2.amazon.com returned result of job 30 executed for (sec)18
+1@t1.micro.c1.amazon.com returned result of job 120 executed for (sec)8
+1@t1.micro.c1.amazon.com returned result of job 154 executed for (sec)1
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 1188 executed for (sec)83
+1@t1.micro.c1.amazon.com returned result of job 1533 executed for (sec)81
+1@t1.micro.c3.amazon.com returned result of job 1268 executed for (sec)99
+1@t1.micro.c3.amazon.com returned result of job 1933 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 221 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 132 executed for (sec)7
+1@t1.micro.c2.amazon.com returned result of job 1351 executed for (sec)34
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 1389 executed for (sec)75
+1@t1.micro.c2.amazon.com returned result of job 1719 executed for (sec)55
+1@t1.micro.c3.amazon.com returned result of job 1130 executed for (sec)77
+1@t1.micro.c2.amazon.com returned result of job 514 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 1657 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 103 executed for (sec)32
+1@t1.micro.c1.amazon.com returned result of job 219 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 384 executed for (sec)19
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 367 executed for (sec)32
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 486 executed for (sec)74
+1@t1.micro.c2.amazon.com returned result of job 11 executed for (sec)101
+1@t1.micro.c2.amazon.com returned result of job 601 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 1958 executed for (sec)54
+1@t1.micro.c1.amazon.com returned result of job 1028 executed for (sec)15
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 59 executed for (sec)87
+1@t1.micro.c3.amazon.com returned result of job 1663 executed for (sec)90
+1@t1.micro.c2.amazon.com returned result of job 1393 executed for (sec)7
+1@t1.micro.c3.amazon.com returned result of job 656 executed for (sec)7
+1@t1.micro.c1.amazon.com returned result of job 574 executed for (sec)102
+1@t1.micro.c1.amazon.com returned result of job 1180 executed for (sec)5
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 224 executed for (sec)64
+1@t1.micro.c2.amazon.com returned result of job 1487 executed for (sec)29
+1@t1.micro.c2.amazon.com returned result of job 153 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 1081 executed for (sec)82
+1@t1.micro.c2.amazon.com returned result of job 1302 executed for (sec)2
+1@t1.micro.c1.amazon.com returned result of job 706 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 1208 executed for (sec)102
+1@t1.micro.c3.amazon.com returned result of job 1591 executed for (sec)2
+I timed out!
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 1841 executed for (sec)79
+1@t1.micro.c2.amazon.com returned result of job 501 executed for (sec)95
+1@t1.micro.c1.amazon.com returned result of job 847 executed for (sec)101
+1@t1.micro.c2.amazon.com returned result of job 65 executed for (sec)11
+1@t1.micro.c1.amazon.com returned result of job 645 executed for (sec)8
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 1857 executed for (sec)55
+1@t1.micro.c1.amazon.com returned result of job 1628 executed for (sec)49
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 1641 executed for (sec)89
+1@t1.micro.c3.amazon.com returned result of job 654 executed for (sec)53
+1@t1.micro.c3.amazon.com returned result of job 1422 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 235 executed for (sec)41
+1@t1.micro.c1.amazon.com returned result of job 971 executed for (sec)6
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 1498 executed for (sec)90
+1@t1.micro.c2.amazon.com returned result of job 229 executed for (sec)1
+1@t1.micro.c3.amazon.com returned result of job 210 executed for (sec)89
+1@t1.micro.c3.amazon.com returned result of job 503 executed for (sec)5
+1@t1.micro.c2.amazon.com returned result of job 1913 executed for (sec)8
+1@t1.micro.c2.amazon.com returned result of job 735 executed for (sec)0
+1@t1.micro.c3.amazon.com returned result of job 203 executed for (sec)6
+1@t1.micro.c1.amazon.com returned result of job 802 executed for (sec)93
+1@t1.micro.c1.amazon.com returned result of job 1779 executed for (sec)7
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 917 executed for (sec)95
+1@t1.micro.c3.amazon.com returned result of job 769 executed for (sec)94
+1@t1.micro.c1.amazon.com returned result of job 818 executed for (sec)85
+1@t1.micro.c2.amazon.com returned result of job 1777 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 1846 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 1596 executed for (sec)5
+1@t1.micro.c3.amazon.com returned result of job 333 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1065 executed for (sec)4
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 635 executed for (sec)86
+1@t1.micro.c1.amazon.com returned result of job 1884 executed for (sec)79
+1@t1.micro.c2.amazon.com returned result of job 1547 executed for (sec)4
+1@t1.micro.c2.amazon.com returned result of job 642 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 749 executed for (sec)88
+1@t1.micro.c1.amazon.com returned result of job 413 executed for (sec)13
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 383 executed for (sec)58
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 141 executed for (sec)99
+1@t1.micro.c2.amazon.com returned result of job 121 executed for (sec)3
+1@t1.micro.c2.amazon.com returned result of job 1494 executed for (sec)0
+1@t1.micro.c3.amazon.com returned result of job 1606 executed for (sec)103
+1@t1.micro.c1.amazon.com returned result of job 186 executed for (sec)45
+I timed out!
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 142 executed for (sec)74
+1@t1.micro.c2.amazon.com returned result of job 1339 executed for (sec)85
+1@t1.micro.c2.amazon.com returned result of job 292 executed for (sec)8
+1@t1.micro.c3.amazon.com returned result of job 1972 executed for (sec)15
+1@t1.micro.c3.amazon.com returned result of job 1960 executed for (sec)7
+1@t1.micro.c1.amazon.com returned result of job 663 executed for (sec)104
+I timed out!
+1@t1.micro.c1.amazon.com returned result of job 994 executed for (sec)52
+1@t1.micro.c2.amazon.com returned result of job 806 executed for (sec)93
+1@t1.micro.c2.amazon.com returned result of job 1477 executed for (sec)10
+1@t1.micro.c1.amazon.com returned result of job 524 executed for (sec)32
+1@t1.micro.c2.amazon.com returned result of job 1135 executed for (sec)0
+1@t1.micro.c3.amazon.com returned result of job 1876 executed for (sec)98
+1@t1.micro.c1.amazon.com returned result of job 41 executed for (sec)9
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 1242 executed for (sec)92
+1@t1.micro.c3.amazon.com returned result of job 1011 executed for (sec)93
+1@t1.micro.c2.amazon.com returned result of job 741 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 1551 executed for (sec)97
+1@t1.micro.c1.amazon.com returned result of job 846 executed for (sec)5
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 959 executed for (sec)48
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 1163 executed for (sec)91
+1@t1.micro.c2.amazon.com returned result of job 159 executed for (sec)47
+1@t1.micro.c1.amazon.com returned result of job 1206 executed for (sec)82
+1@t1.micro.c3.amazon.com returned result of job 252 executed for (sec)14
+1@t1.micro.c1.amazon.com returned result of job 500 executed for (sec)12
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 666 executed for (sec)91
+1@t1.micro.c3.amazon.com returned result of job 869 executed for (sec)88
+1@t1.micro.c3.amazon.com returned result of job 444 executed for (sec)7
+1@t1.micro.c1.amazon.com returned result of job 1936 executed for (sec)92
+1@t1.micro.c1.amazon.com returned result of job 114 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1557 executed for (sec)0
+1@t1.micro.c1.amazon.com returned result of job 1945 executed for (sec)2
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 819 executed for (sec)75
+1@t1.micro.c1.amazon.com returned result of job 1685 executed for (sec)64
+1@t1.micro.c2.amazon.com returned result of job 1734 executed for (sec)29
+1@t1.micro.c3.amazon.com returned result of job 1131 executed for (sec)95
+1@t1.micro.c2.amazon.com returned result of job 1724 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 1633 executed for (sec)2
+1@t1.micro.c1.amazon.com returned result of job 650 executed for (sec)24
+1@t1.micro.c1.amazon.com returned result of job 655 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 467 executed for (sec)3
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 478 executed for (sec)92
+1@t1.micro.c2.amazon.com returned result of job 1418 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 1370 executed for (sec)95
+1@t1.micro.c2.amazon.com returned result of job 1897 executed for (sec)2
+1@t1.micro.c3.amazon.com returned result of job 1427 executed for (sec)7
+1@t1.micro.c1.amazon.com returned result of job 1963 executed for (sec)96
+I timed out!
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 10 executed for (sec)93
+1@t1.micro.c1.amazon.com returned result of job 1748 executed for (sec)86
+1@t1.micro.c2.amazon.com returned result of job 1124 executed for (sec)5
+1@t1.micro.c3.amazon.com returned result of job 925 executed for (sec)93
+1@t1.micro.c1.amazon.com returned result of job 1630 executed for (sec)6
+1@t1.micro.c3.amazon.com returned result of job 1943 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1448 executed for (sec)2
+1@t1.micro.c1.amazon.com returned result of job 1759 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 768 executed for (sec)1
+1@t1.micro.c1.amazon.com returned result of job 309 executed for (sec)1
+1@t1.micro.c2.amazon.com returned result of job 232 executed for (sec)17
+I timed out!
+I timed out!
+1@t1.micro.c3.amazon.com returned result of job 1132 executed for (sec)89
+1@t1.micro.c2.amazon.com returned result of job 1392 executed for (sec)82
+1@t1.micro.c1.amazon.com returned result of job 1451 executed for (sec)102
+1@t1.micro.c3.amazon.com returned result of job 1044 executed for (sec)30
+1@t1.micro.c2.amazon.com returned result of job 1023 executed for (sec)55
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 215 executed for (sec)38
+1@t1.micro.c3.amazon.com returned result of job 1810 executed for (sec)71
+1@t1.micro.c1.amazon.com returned result of job 1110 executed for (sec)85
+1@t1.micro.c3.amazon.com returned result of job 3 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 1473 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 946 executed for (sec)3
+1@t1.micro.c1.amazon.com returned result of job 540 executed for (sec)9
+1@t1.micro.c3.amazon.com returned result of job 1971 executed for (sec)44
+I timed out!
+1@t1.micro.c2.amazon.com returned result of job 558 executed for (sec)95
+1@t1.micro.c2.amazon.com returned result of job 33 executed for (sec)3
+1@t1.micro.c3.amazon.com returned result of job 1595 executed for (sec)49
+1@t1.micro.c2.amazon.com returned result of job 175 executed for (sec)4
+1@t1.micro.c3.amazon.com returned result of job 612 executed for (sec)5
+1@t1.micro.c1.amazon.com returned result of job 1357 executed for (sec)89
+1@t1.micro.c1.amazon.com returned result of job 1553 executed for (sec)4
+1@t1.micro.c1.amazon.com returned result of job 302 executed for (sec)5
+I timed out!
+Node 1 in cluster t1.micro.c2.amazon.com failed to execute (extra point) job 1460
+I timed out!
+Node 1 in cluster t1.micro.c3.amazon.com failed to execute (extra point) job 234
+Node 1 in cluster t1.micro.c1.amazon.com failed to execute (extra point) job 1261
